@@ -2,9 +2,9 @@
 /*
   ReciprocalCounter.h - Library for a Reciprocal Frequency Counter.
 
+  based on gataro AVR at http://gataro-avr-ken.cocolog-nifty.com/blog/2008/11/lcdfg-6a43.html
+  also based on FreqCounter lib by  Martin Nawrath, KHM Lab3, Dec. 2008
 
-  also refer to Martin Nawrath, KHM Lab3, Dec. 2008
-  Released into the public domain.
 */
 
 #ifndef ReciprocalCounter_h
