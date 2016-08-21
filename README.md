@@ -10,14 +10,16 @@ Up to 2 digits after the decimal point can be measured in short period of time.
 
 Usage:
 
-#include <ReciprocalCounter.h>
+`#include <ReciprocalCounter.h>`
 
 for the measurement...
 
-ReciprocalCounter::start(pin, timeout);
+`ReciprocalCounter::start(pin, timeout);`
 
 The results are stored in
-    ReciprocalCounter::f_freq, and ReciprocalCounter::f_mod
+
+`ReciprocalCounter::f_freq, and` 
+`ReciprocalCounter::f_mod`
 
 Please consult programs in 'Examples folder' in details.
 
